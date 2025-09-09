@@ -1,5 +1,6 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Your Name Darin Gogandi 
 
-# Your Github username
+# Your Github username DarinG05 
+
